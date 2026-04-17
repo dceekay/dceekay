@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2200&pause=300&color=00F5FF&center=true&vCenter=true&width=820&lines=INITIALIZING+SYSTEM...;LOADING+ENGINEER_PROFILE;FULL_STACK_ENGINEER;ARCHITECTURE+%7C+SYSTEMS+%7C+SCALABILITY;STATUS%3A+ACTIVE" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dceekay&bg_color=0a0f1c&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=true" />
-
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0f1c,50:111827,100:1f2937&height=140&section=header"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dceekay&bg_color=0a0f1c&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -42,19 +42,41 @@ Designing and shipping software that handles real-world scale, load, and constra
 ## STACK.LAYER
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=ts,nodejs,react,vue,laravel,python,docker,postgres,mongodb,redis&perline=5" />
+</div>
+
+---
+
+## SELECTED.SYSTEMS
+
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dceekay&repo=realestate_ci3&theme=transparent&hide_border=true&title_color=00F5FF&text_color=7f8c8d" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dceekay&repo=ai-knowledge-assistant&theme=transparent&hide_border=true&title_color=00F5FF&text_color=7f8c8d" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dceekay&repo=offline-pos-system&theme=transparent&hide_border=true&title_color=00F5FF&text_color=7f8c8d" />
+</a>
 
 </div>
 
 ---
 
-## ACTIVE.SYSTEMS
+## SYSTEM.HIGHLIGHTS
 
-* Scalable backend architectures
-* AI-powered systems (RAG, automation pipelines)
-* SaaS platform engineering
-* Performance optimization and system design
+REAL ESTATE PLATFORM
+Full-stack property management system with listing, admin control, and scalable backend design.
+
+AI KNOWLEDGE ASSISTANT
+RAG-based intelligent system for contextual data retrieval and automation workflows.
+
+OFFLINE-FIRST POS SYSTEM
+Resilient POS architecture supporting offline transactions and sync mechanisms.
 
 ---
 
@@ -73,9 +95,7 @@ Designing and shipping software that handles real-world scale, load, and constra
 ## ACTIVITY.FEED
 
 <div align="center">
-
 <img src="https://github.com/dceekay/dceekay/blob/output/github-contribution-grid-snake-dark.svg" />
-
 </div>
 
 ---
