@@ -1,50 +1,96 @@
-<h1 align="center">Mohammad Sani Ibrahim</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Laravel+%7C+Node.js+%7C+React+%7C+Vue;Building+Scalable+Systems;Open+to+Global+Opportunities" />
-</p>
+<h1>MOHAMMAD SANI IBRAHIM</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=400&color=00F5FF&center=true&vCenter=true&width=820&lines=INITIALIZING+SYSTEM...;LOADING+ENGINEER_PROFILE;FULL_STACK_ENGINEER;ARCHITECTURE+%7C+SYSTEMS+%7C+SCALABILITY;STATUS%3A+ACTIVE" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0f1c,50:111827,100:1f2937&height=140&section=header"/>
 
-### 🚀 About Me
-- 💻 Full-Stack Developer (Laravel, Node.js, React, Vue)
-- ⚡ I build scalable and production-ready systems
-- 🌍 Based in Nigeria, open to remote roles
+</div>
 
 ---
 
-### 🛠 Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vue,laravel,python,docker,postgres,mongodb" />
-</p>
+## SYSTEM.IDENTITY
+
+name: Mohammad Sani Ibrahim
+role: Full-Stack Engineer
+location: Cyprus (Remote Ready)
+
+focus:
+
+* Scalable Architectures
+* High-Performance Systems
+* Clean Engineering Practices
+
+availability: Open for high-impact work
 
 ---
 
-### 🚀 Currently Building
-- 🔥 AI-powered applications  
-- ⚡ Scalable backend systems  
-- 🌍 SaaS platforms  
+## EXECUTION.MODEL
+
+Systems over interfaces.
+Reliability over trends.
+Performance as a baseline.
+
+Designing and shipping software that handles real-world scale, load, and constraints.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dceekay&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## STACK.LAYER
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,vue,laravel,python,docker,postgres,mongodb,redis&perline=5" />
+</div>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="http://mohammad-portfolio-vert.vercel.app/">Portfolio</a>
-</p>
+## ACTIVE.SYSTEMS
+
+* Scalable backend architectures
+* AI-powered systems (RAG, automation pipelines)
+* SaaS platform engineering
+* Performance optimization and system design
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
-</p>
+## TELEMETRY
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=dceekay&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=7f8c8d" />
+
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dceekay&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+
+</div>
+
+---
+
+## ACTIVITY.FEED
+
+<div align="center">
+<img src="https://github.com/dceekay/dceekay/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## ACCESS.POINT
+
+<div align="center">
+
+<a href="http://mohammad-portfolio-vert.vercel.app/">
+<img src="https://img.shields.io/badge/ENTER_PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1f2937&height=120&section=footer"/>
+
+</div>
