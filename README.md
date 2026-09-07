@@ -110,10 +110,9 @@ I hold a **B.Sc. in Computer Engineering** from Girne American University and ce
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dceekay&show_icons=true&theme=transparent&hide_border=true&title_color=00D9F5&icon_color=7C3AED&text_color=94A3B8&rank_icon=github" alt="Mohammad's GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=dceekay&theme=transparent&hide_border=true&ring=00D9F5&fire=7C3AED&currStreakLabel=00D9F5&sideLabels=94A3B8&dates=64748B" alt="Mohammad's contribution streak" />
+[![Mohammad's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dceekay&theme=github_dark)](https://github.com/dceekay)
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dceekay&bg_color=00000000&color=94A3B8&line=00D9F5&point=7C3AED&area=true&hide_border=true)
+[![Mohammad's GitHub contribution calendar](https://ghchart.rshah.org/00D9F5/dceekay)](https://github.com/dceekay)
 
 </div>
 
